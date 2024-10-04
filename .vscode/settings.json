@@ -1,0 +1,12 @@
+{
+    "cmake.generator": "MinGW Makefiles",
+    "cmake.configureArgs": [
+        "-G",
+        "MinGW Makefiles"
+    ],
+    "cmake.configureOnOpen": true,
+    "cmake.buildDirectory": "${workspaceFolder}/build",
+    "files.associations": {
+        "vector": "cpp"
+    }
+}
